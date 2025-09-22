@@ -8,7 +8,7 @@ Aspiring Web Developer | Front-end Mobile Development | Building cool projects
 - Enjoy turning designs into interactive websites  
 - Currently learning modern front-end frameworks (React, Next.js)  
 - Interested in UI/UX design principles and web accessibility  
-- Reach me: Sesethuk201@gmail.com | LinkedIn link: https://www.linkedin.com/in/sesethu-ketsiwe-876475341?    utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
+- Reach me: Sesethuk201@gmail.com | LinkedIn link: https://www.linkedin.com/in/sesethu-ketsiwe-876475341?
 
 ## 🛠 Skills
 HTML • CSS • JavaScript • Java • PHP • MySQL • Python 
