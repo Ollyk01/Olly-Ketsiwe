@@ -13,8 +13,7 @@ Aspiring Web Developer | Front-end Mobile Development | Building cool projects
 ## 🛠 Skills
 HTML • CSS • JavaScript • Java • PHP • MySQL • Python 
 
-## Projects
-### Project 1 
+## Projects 
 ### Paper Trade
 *Paper Trade* is an e-commerce website for students to *buy, sell, and trade textbooks* easily.  
  *Tech stack*: HTML, CSS, JavaScript, PHP/MySQL (backend)  
